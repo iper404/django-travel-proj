@@ -1,2 +1,5 @@
-.db.sqlite3
-iTravel\settings.py
+db.sqlite3
+readme.txt
+assets
+static
+media
